@@ -1,0 +1,30 @@
+{
+  "arxiv_query": "abs:\"IBM Watson\" OR abs:watsonx OR abs:\"IBM Granite\" OR abs:\"IBM Quantum\"",
+  "arxiv_max": 8,
+  "repos_per_section": 6,
+  "since_days": 365,
+  "code_sections": [
+    {
+      "key": "PROJ",
+      "queries": [
+        "org:ibm-granite",
+        "org:IBM ai"
+      ]
+    },
+    {
+      "key": "CODE",
+      "queries": [
+        "org:IBM",
+        "org:foundation-model-stack"
+      ]
+    },
+    {
+      "key": "COMM",
+      "queries": [
+        "watsonx",
+        "ibm granite",
+        "qiskit"
+      ]
+    }
+  ]
+}
