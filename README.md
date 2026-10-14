@@ -4,7 +4,7 @@ A free, self-updating hub for professionals working on **watsonx, Granite models
 Research and code lists refresh every day from arXiv and GitHub. Learning resources are hand-picked and free.
 
 <!-- STAMP:START -->
-_Last refreshed: 2026-10-13 04:44 UTC_
+_Last refreshed: 2026-10-14 04:37 UTC_
 <!-- STAMP:END -->
 
 ## Contents
@@ -21,14 +21,14 @@ Newest papers on arXiv for this topic, newest first.
 <!-- ARXIV:START -->
 | Date | Paper | Authors |
 |---|---|---|
+| 2026-10-12 | [QBFF: Deep Quantum Bottleneck for Automatic Speaker Verification Anti-Spoofing](https://arxiv.org/abs/2610.16390) | Anton Firc et al. |
+| 2026-10-10 | [Avoiding Defects within Heavy-Hexagon Architecture](https://arxiv.org/abs/2610.14778) | Hansol Kim et al. |
 | 2026-10-09 | [Correlation-Based Measurement of Entanglement in Rank-2 Mixed States](https://arxiv.org/abs/2610.13579) | M. I. Samar et al. |
 | 2026-10-07 | [Quantum Optimization of the Color-of-Money Problem on IBM Quantum Hardware: A Proof-of-Concept Study](https://arxiv.org/abs/2610.09798) | Rahul Rana et al. |
 | 2026-10-01 | [A Gate-Based Quantum Computing Framework for Codon Optimization](https://arxiv.org/abs/2610.00887) | Fatemeh Ghasemi et al. |
 | 2026-09-30 | [Quantum--classical break-even in electronic dynamics of macrocyclic molecules](https://arxiv.org/abs/2609.39693) | Shu Kanno et al. |
 | 2026-09-30 | [Toward Quantum Software Automation: A Quantum-Aware Harness for LLM-Guided Evolution](https://arxiv.org/abs/2609.38883) | Lily Jiaxin Wan et al. |
 | 2026-09-29 | [Quantum Simulation of Detuning-Controlled Proximity-Induced Localization and Reentrant Delocalization in a Quasiperiodic Ladder](https://arxiv.org/abs/2609.37059) | Mrinal Kanti Giri et al. |
-| 2026-09-26 | [Quantum Machine Learning for Cybersecurity Applications: Simulation and Hardware Validation](https://arxiv.org/abs/2609.32911) | Zirui Zhu et al. |
-| 2026-09-25 | [Scattering amplitudes from quantum hardware a la RESOs](https://arxiv.org/abs/2609.31889) | Raul A Briceno et al. |
 <!-- ARXIV:END -->
 
 ## 🚀 Projects (official and flagship)
@@ -37,10 +37,10 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- PROJ:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized disco | Python | 4,611 | 2026-10-12 |
-| [IBM/AssetOpsBench](https://github.com/IBM/AssetOpsBench) | AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for In | Python | 2,349 | 2026-10-13 |
+| [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized disco | Python | 4,624 | 2026-10-13 |
+| [IBM/AssetOpsBench](https://github.com/IBM/AssetOpsBench) | AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for In | Python | 2,351 | 2026-10-13 |
 | [ibm-granite/granite-tsfm](https://github.com/ibm-granite/granite-tsfm) | Foundation Models for Time Series | Jupyter Notebook | 910 | 2026-10-09 |
-| [IBM/aihwkit](https://github.com/IBM/aihwkit) | IBM Analog Hardware Acceleration Kit | Jupyter Notebook | 516 | 2026-10-09 |
+| [IBM/aihwkit](https://github.com/IBM/aihwkit) | IBM Analog Hardware Acceleration Kit | Jupyter Notebook | 518 | 2026-10-13 |
 | [IBM/unitxt](https://github.com/IBM/unitxt) | 🦄 Unitxt is a Python library for enterprise-grade evaluation of AI performance, offering the world's largest catalog of tools and data for e | Python | 215 | 2026-10-06 |
 | [ibm-granite/granite-4.0-language-models](https://github.com/ibm-granite/granite-4.0-language-models) |  |  | 211 | 2026-03-30 |
 <!-- PROJ:END -->
@@ -51,12 +51,12 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- CODE:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [IBM/sarama](https://github.com/IBM/sarama) | Sarama is a Go library for Apache Kafka. | Go | 12,524 | 2026-10-09 |
-| [IBM/plex](https://github.com/IBM/plex) | The package of IBM’s typeface, IBM Plex. | CSS | 11,689 | 2026-10-05 |
-| [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized disco | Python | 4,611 | 2026-10-12 |
-| [IBM/AssetOpsBench](https://github.com/IBM/AssetOpsBench) | AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for In | Python | 2,349 | 2026-10-13 |
-| [IBM/fp-go](https://github.com/IBM/fp-go) | Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Eith | Go | 2,031 | 2026-10-11 |
-| [IBM/Project_CodeNet](https://github.com/IBM/Project_CodeNet) | This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX | Python | 1,700 | 2025-12-21 |
+| [IBM/sarama](https://github.com/IBM/sarama) | Sarama is a Go library for Apache Kafka. | Go | 12,526 | 2026-10-13 |
+| [IBM/plex](https://github.com/IBM/plex) | The package of IBM’s typeface, IBM Plex. | CSS | 11,689 | 2026-10-13 |
+| [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized disco | Python | 4,624 | 2026-10-13 |
+| [IBM/AssetOpsBench](https://github.com/IBM/AssetOpsBench) | AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for In | Python | 2,351 | 2026-10-13 |
+| [IBM/fp-go](https://github.com/IBM/fp-go) | Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Eith | Go | 2,032 | 2026-10-11 |
+| [IBM/Project_CodeNet](https://github.com/IBM/Project_CodeNet) | This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX | Python | 1,701 | 2025-12-21 |
 <!-- CODE:END -->
 
 ## 🌍 Community projects
@@ -65,11 +65,11 @@ Most-starred GitHub repositories updated in the last 12 months.
 <!-- COMM:START -->
 | Repository | What it is | Language | Stars | Last update |
 |---|---|---|---|---|
-| [Qiskit/qiskit](https://github.com/Qiskit/qiskit) | Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives. | Python | 7,886 | 2026-10-13 |
-| [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane) | PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry. Create meaning | Python | 3,494 | 2026-10-12 |
+| [Qiskit/qiskit](https://github.com/Qiskit/qiskit) | Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives. | Python | 7,886 | 2026-10-14 |
+| [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane) | PennyLane is an open-source quantum software platform for quantum computing, quantum machine learning, and quantum chemistry. Create meaning | Python | 3,494 | 2026-10-13 |
 | [qiskit-community/qiskit-machine-learning](https://github.com/qiskit-community/qiskit-machine-learning) | An open-source library built on Qiskit for quantum machine learning tasks at scale on quantum hardware and classical simulators | Python | 1,107 | 2026-08-19 |
 | [qiskit-community/qiskit-community-tutorials](https://github.com/qiskit-community/qiskit-community-tutorials) | A collection of Jupyter notebooks developed by the community showing how to use Qiskit | Jupyter Notebook | 864 | 2026-10-06 |
-| [Qiskit/qiskit-aer](https://github.com/Qiskit/qiskit-aer) | Aer is a high performance simulator for quantum circuits that includes noise models | C++ | 703 | 2026-10-07 |
+| [Qiskit/qiskit-aer](https://github.com/Qiskit/qiskit-aer) | Aer is a high performance simulator for quantum circuits that includes noise models | C++ | 703 | 2026-10-13 |
 | [qiskit-community/qiskit-metal](https://github.com/qiskit-community/qiskit-metal) | Python framework for designing & analyzing superconducting quantum chips. Lite-by-default, headless-friendly, EDA-grade. | Python | 427 | 2026-10-11 |
 <!-- COMM:END -->
 
